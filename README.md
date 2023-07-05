@@ -9,7 +9,7 @@ Spotify Landing Page Clone App
    
 
   
-   * Sobre o projeto
+    * Sobre o projeto
   
 Um clone da landing page do spotify desenvolvido para a prática de HTML, CSS e Javascript.
 Benefícios do projeto:
@@ -19,10 +19,10 @@ Benefícios do projeto:
    
 Esse projeto é parte do meu portifólio pessoa para o projeto Todas Tech da Imã Learning Place, qualquer feedback sobre estrutura, código e funcionalidades que possam melhor o projeto são bem vindos.
 
-   * Funcionalidades 
+    * Funcionalidades 
 -Landing page do site do Spotify
 
-   * Tecnologias utilizadas
+    * Tecnologias utilizadas
 -HTML
 -CSS
 -Javascript
