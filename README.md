@@ -1,10 +1,12 @@
 Spotify Landing Page Clone App
 
--Índice 
+Índice
+
  * landing page
  * Sobre o projeto
  * Funcionalidades
  * Tecnologias utilizadas
+   
 
 * Sobre o projeto 
 Um clone da landing page do spotify desenvolvido para a prática de HTML, CSS e Javascript.
